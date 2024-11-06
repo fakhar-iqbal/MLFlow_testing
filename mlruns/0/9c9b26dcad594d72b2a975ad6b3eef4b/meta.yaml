@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Fakhar-E-Iqbal/Desktop/mlflow/mlflowtest/mlruns/0/9c9b26dcad594d72b2a975ad6b3eef4b/artifacts
+end_time: 1730575510276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c9b26dcad594d72b2a975ad6b3eef4b
+run_name: carefree-asp-319
+run_uuid: 9c9b26dcad594d72b2a975ad6b3eef4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730575500135
+status: 3
+tags: []
+user_id: Fakhar-E-Iqbal
